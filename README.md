@@ -8,7 +8,6 @@ This project implements a **Convolutional Neural Network (CNN)** to classify ima
 
 - `cnn_classifier.ipynb` – Jupyter Notebook (Google Colab compatible) with the full implementation.
 - `README.md` – You're here!
-- `requirements.txt` – (Optional) Add this if you want users to install required libraries locally.
 
 ---
 
